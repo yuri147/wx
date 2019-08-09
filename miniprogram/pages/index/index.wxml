@@ -1,0 +1,17 @@
+<!--index.wxml-->
+<view class="container">
+<text>
+  {{advice}}   
+  {{adviceZh}} 
+</text>
+
+
+  <button class="card" type="default" loading="{{loading}}" plain="{{plain}}" bindtap="changeCard" hover-class="other-button-hover"> 找点灵感?</button>
+
+  <text class="foot">
+  Oblique Strategies 
+  by 
+  Brian Eno
+  Peter Schmidt
+  </text>
+</view>

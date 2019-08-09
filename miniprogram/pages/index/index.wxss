@@ -1,0 +1,28 @@
+/**index.wxss**/
+
+.card {
+  width: 85%;
+  /* min-height: 300px; */
+  text-align: center;
+  margin-top: 20px;
+  color: rgba(0, 0, 0, 0.87);
+  font-size: 16px;
+  /* line-height: 300px; */
+}
+
+text {
+  /* margin-top: 20px; */
+  color: rgba(0, 0, 0, 0.87);
+  font-size: 20px;
+  width: 90%;
+  text-align: center;  
+  line-height: 1.5;
+  min-height: 200px;
+}
+
+.foot {
+  color: #3f3f3f;
+  font-size: 14px;
+  width: 90%;
+  /* text-align: left; */
+}
